@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291907371604",
+    "project_id": "catatan-d66c9",
+    "storage_bucket": "catatan-d66c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291907371604:android:d289aefc79b3aeaf4b63c1",
+        "android_client_info": {
+          "package_name": "com.example.catatan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxakd5CCE0Pr9uWNj_Izb5eFJzgDqM4_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
